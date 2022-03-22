@@ -1,0 +1,17 @@
+.form-item {
+    font-size: 1.25em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    
+    
+    select {
+        width: 20em;
+    }
+   
+}
+
+.form-item__icon {
+    margin-right: 1em;
+}
